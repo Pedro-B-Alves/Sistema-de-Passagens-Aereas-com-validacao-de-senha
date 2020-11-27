@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\bin\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Passagens-Aereas-com-validacao-de-senha\obj\Debug\netcoreapp3.1\Sistema-de-Passagens-Aereas-com-validacao-de-senha.genruntimeconfig.cache
