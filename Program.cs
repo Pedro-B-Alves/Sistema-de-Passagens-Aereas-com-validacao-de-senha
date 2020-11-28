@@ -69,7 +69,7 @@ namespace Sistema_de_Passagens_Aereas_com_validacao_de_senha
                         break;
                     case 2:
                         //Listar as passagens
-                            for (var i = 0; i < 5; i++)
+                            for (var i = 0; i < contador; i++)
                             {
                                 Console.WriteLine($"Passageiro {nomes[i]}");
                             }
